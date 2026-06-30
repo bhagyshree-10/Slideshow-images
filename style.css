@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    font-family:Arial;
+    margin-top:40px;
+    background-color:lightgray;
+}
+
+img{
+    width:350px;
+    height:500px;
+    border:2px solid black;
+}
+
+button{
+    padding:10px 20px;
+    margin:5px;
+}
